@@ -12,7 +12,7 @@ card:
 
 {{% capture overview %}}
 
-This website is maintained by [Kubernetes SIG Docs](/docs/contribute/#get-involved-with-sig-docs).
+This website is maintained by [Kubernetes SIG Docs](/docs/contribute/##get-involved-with-sig-docs).
 
 Kubernetes documentation contributors:
 
